@@ -6,14 +6,9 @@
 
 ---
 
-### 📌 پروژه‌های من:
-- [🎧 ربات دانلود موزیک تلگرام](https://github.com/amir595/telegram-music-bot)
-- [📊 سیستم مدیریت باشگاه ورزشی با Django](https://github.com/amir595/gym-management)
-- [🌐 پنل فرانت‌اند با Angular](https://github.com/amir595/frontend)
-
 ---
 
 📫 در تماس باشیم:
-- Email: yosef.mohammadi.n98@gmail.com
-- Telegram: [t.me/your_username](https://t.me/your_username) (اگه خواستی اضافه کنیم)
+- Email: amirmohamadi595@gmail.com
+- Telegram: amirm595
 
